@@ -1,0 +1,149 @@
+[{
+  "_id": {
+    "$oid": "67e3684956e372f409076cf1"
+  },
+  "english": "goodbye",
+  "german": "auf Wiedersehen"
+},
+{
+  "_id": {
+    "$oid": "67e3684956e372f409076cf2"
+  },
+  "english": "please",
+  "german": "bitte"
+},
+{
+  "_id": {
+    "$oid": "67e3684956e372f409076cf3"
+  },
+  "english": "thank you",
+  "german": "danke"
+},
+{
+  "_id": {
+    "$oid": "67e3684956e372f409076cf4"
+  },
+  "english": "yes",
+  "german": "ja"
+},
+{
+  "_id": {
+    "$oid": "67e3684956e372f409076cf5"
+  },
+  "english": "no",
+  "german": "nein"
+},
+{
+  "_id": {
+    "$oid": "67e3684956e372f409076cf6"
+  },
+  "english": "morning",
+  "german": "Morgen"
+},
+{
+  "_id": {
+    "$oid": "67e3684956e372f409076cf7"
+  },
+  "english": "evening",
+  "german": "Abend"
+},
+{
+  "_id": {
+    "$oid": "67e3684956e372f409076cf8"
+  },
+  "english": "night",
+  "german": "Nacht"
+},
+{
+  "_id": {
+    "$oid": "67e3684956e372f409076cf9"
+  },
+  "english": "friend",
+  "german": "Freund"
+},
+{
+  "_id": {
+    "$oid": "67e3684956e372f409076cfa"
+  },
+  "english": "family",
+  "german": "Familie"
+},
+{
+  "_id": {
+    "$oid": "67e3684956e372f409076cfb"
+  },
+  "english": "food",
+  "german": "Essen"
+},
+{
+  "_id": {
+    "$oid": "67e3684956e372f409076cfc"
+  },
+  "english": "water",
+  "german": "Wasser"
+},
+{
+  "_id": {
+    "$oid": "67e3684956e372f409076cfd"
+  },
+  "english": "coffee",
+  "german": "Kaffee"
+},
+{
+  "_id": {
+    "$oid": "67e3684956e372f409076cfe"
+  },
+  "english": "tea",
+  "german": "Tee"
+},
+{
+  "_id": {
+    "$oid": "67e3684956e372f409076cff"
+  },
+  "english": "car",
+  "german": "Auto"
+},
+{
+  "_id": {
+    "$oid": "67e3684956e372f409076d00"
+  },
+  "english": "train",
+  "german": "Zug"
+},
+{
+  "_id": {
+    "$oid": "67e3684956e372f409076d01"
+  },
+  "english": "airplane",
+  "german": "Flugzeug"
+},
+{
+  "_id": {
+    "$oid": "67e3684956e372f409076d02"
+  },
+  "english": "book",
+  "german": "Buch"
+},
+{
+  "_id": {
+    "$oid": "67e3684956e372f409076d03"
+  },
+  "english": "computer",
+  "german": "Computer"
+},
+{
+  "_id": {
+    "$oid": "67e3684956e372f409076cf0"
+  },
+  "english": "hello",
+  "german": "hallo",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ec86d9cbcd61bfe0877361"
+  },
+  "english": "hallo ola",
+  "german": "holaa alo",
+  "__v": 0
+}]
