@@ -5,7 +5,7 @@ const VocabRoute = (app) => {
     // 1 without id
     app.route('/vocabs')
         .get(vocabBuilder.ViewAllVocabs)
-        .post(vocabBuilder.create_a_vocab);
+        .post(vocabBuilder.create_a_vocab)
 
 
     // 2 with id

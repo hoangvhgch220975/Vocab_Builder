@@ -74,6 +74,7 @@ const delete_a_vocab = async (req, res) => {
     }
 }
 
+
 // export controller functions
 export {
     ViewAllVocabs,
